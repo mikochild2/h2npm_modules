@@ -1,0 +1,17 @@
+{
+  "name": "challenge3",
+  "version": "1.0.2",
+  "description": "npm lab 4/16/20",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Erica Lewis",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikochild2/h2npm_modules.git"
+  }
+}
